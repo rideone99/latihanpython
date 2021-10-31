@@ -33,7 +33,7 @@
     print(f"Let me introduce myself, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and i am {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thank you ")
 
 
-output latihan 1
+# output latihan 1
 
 ![latihan3](gambar/latihan1.png)
 
